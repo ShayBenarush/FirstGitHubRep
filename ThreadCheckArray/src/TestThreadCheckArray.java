@@ -7,7 +7,7 @@ import java.util.Scanner;
 public class TestThreadCheckArray {
 	/**
 	 * main method runs the program
-	 * it reads input from the user, creates threads and printing the results
+	 * it reads input from the user, creates threads and printing the result
 	 * @param args not used
 	 */
 	public static void main(String[] args) {
