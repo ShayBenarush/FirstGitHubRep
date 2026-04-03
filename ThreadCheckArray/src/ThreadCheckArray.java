@@ -1,7 +1,11 @@
 import java.util.ArrayList;
 
 /**
- * 
+ * ThreadCheckArray implements the logic for finding a subset sum in a 
+ * multithreaded environment. Each instance runs as a separate thread 
+ * exploring a specific branch of the recursion tree.
+ * @author Adi
+ * @version 1.0
  */
 public class ThreadCheckArray implements Runnable 
 {
