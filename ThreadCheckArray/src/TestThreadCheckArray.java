@@ -1,7 +1,15 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
+/**
+ * this class is responsible for running the program and coordinating the execution of threads.
+ */
 public class TestThreadCheckArray {
+	/**
+	 * main method runs the program
+	 * it reads input from the user, creates threads and printing the results
+	 * @param args not used
+	 */
 	public static void main(String[] args) {
 		try (Scanner input = new Scanner(System.in)) {
 			Thread thread1, thread2;
