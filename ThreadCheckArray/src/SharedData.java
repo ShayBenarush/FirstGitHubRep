@@ -1,5 +1,8 @@
 import java.util.ArrayList; //imported arraylist 
 
+/**
+ * 
+ */
 public class SharedData 
 {
 	private ArrayList <Integer> array; //changed to arraylist
